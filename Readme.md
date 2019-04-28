@@ -2,22 +2,23 @@
 
 1. **Basic**
    - Introduction
-   - [Init](basic/init.md)
-   - [Commit](basic/commit.md)
-   - [Log](basic/log.md)
+   - [Git Init](basic/init.md)
+   - [Git Commit](basic/commit.md)
+   - [Git Log](basic/log.md)
 
 2. **Remote Repository**
-   - Push
-   - Pull 
+   - [Git Remote](remote-repository/remote.md)
+   - [Git Push](remote-repository/push.md)
+   - [Git Pull](remote-repository/pull.md) 
 
 3. **Manage Commit**
-   - Checkout
-   - Revert
-   - Reset
+   - Git Checkout
+   - Git Revert
+   - Git Reset
 
 4. **Branch**
-   - Branch
-   - Merge
+   - Git Branch
+   - Git Merge
 
 5. **Pull Request**
    - Using Fork

@@ -1,4 +1,4 @@
-# Log
+# Git Log
 
 Untuk melihat commit apa saja yang sudah disimpan pada suatu repository, kita dapat menggunakan log, berikut perintah untuk menggunakan log
 
