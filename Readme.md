@@ -2,9 +2,9 @@
 
 1. **Basic**
    - Introduction
-   - Init
-   - Commit
-   - Log
+   - [Init](basic/init.md)
+   - [Commit](basic/commit.md)
+   - [Log](basic/log.md)
 
 2. **Remote Repository**
    - Push
