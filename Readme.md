@@ -12,9 +12,9 @@
    - [Git Pull](remote-repository/pull.md) 
 
 3. **Manage Commit**
-   - Git Checkout
-   - Git Revert
-   - Git Reset
+   - [Git Checkout](manage-commit/checkout.md)
+   - [Git Revert](manage-commit/revert.md)
+   - [Git Reset](manage-commit/reset.md)
 
 4. **Branch**
    - Git Branch
