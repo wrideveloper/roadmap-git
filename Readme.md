@@ -2,7 +2,7 @@
 
 1. **Basic**
 
-   - Introduction
+   - [Introduction](basic/introduction.md)
    - [Git Init](basic/init.md)
    - [Git Commit](basic/commit.md)
    - [Git Log](basic/log.md)
